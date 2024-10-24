@@ -86,13 +86,3 @@ flutter:
     #
     # For details regarding fonts from package dependencies,
     # see https://flutter.dev/to/font-from-package
-
-    assets:
-        - assets/bruschetta.jpg
-        - assets/mushrooms.jpg
-        - assets/spaghetti.jpg
-        - assets/chicken.jpg
-        - assets/cheesecake.jpg
-        - assets/chocolate_cake.jpg
-        - assets/mojito.jpg
-        - assets/lemonade.jpg
